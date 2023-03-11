@@ -1,5 +1,5 @@
 <div align="center">
-Hello, I'm [Artur Buyan!] 👋
+Hello, I'm Artur Buyan! 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=slfl&label=Views&color=blue&style=plastic" alt="slfl" /> </p>
 
@@ -23,7 +23,7 @@ Hello, I'm [Artur Buyan!] 👋
 <br/>
 
 [![Twitter: Artur](https://img.shields.io/twitter/follow/MrSLFL?style=social)](https://twitter.com/MrSLFL)
-[![GitHub Artur](https://img.shields.io/github/followers/MrSLFL?label=follow&style=social)](https://github.com/SLFL)
+[![GitHub Artur](https://img.shields.io/github/followers/slfl?style=social)](https://github.com/slfl)
 
 **Languages and Tools:**  
 
@@ -34,28 +34,11 @@ Hello, I'm [Artur Buyan!] 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
 <a href="https://github.com/slfl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slfl&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=slfl&theme=synthwave&show_icons=true" alt="Artur's github stats"/>
 </a>
-<a href="https://github.com/slfl">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=slfl&show_icons=true&theme=light&line_height=27" alt="Artur's github stats"/>
-</a>
-<a href="https://github.com/slfl/HUAWEI89_WE_KK_610">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slfl&repo=HUAWEI89_WE_KK_610&theme=light" />
-
-</a>
-<a href="https://github.com/slfl/HUAWEI89_WE_KK_700">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slfl&repo=HUAWEI89_WE_KK_700&theme=light" />
-</a>
-
-
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
-
-
-
-
 
 <!--
 **slfl/slfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
